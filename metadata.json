@@ -1,0 +1,8 @@
+{
+  "name": "Self-Synchronizing Stream Cipher 3D",
+  "description": "Interactive 3D educational animation illustrating how an asynchronous self-synchronizing stream cipher automatically recovers from a corrupted ciphertext bit via its 4-bit feedback shift register.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
